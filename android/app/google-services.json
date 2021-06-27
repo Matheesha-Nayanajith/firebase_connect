@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510243259626",
+    "project_id": "fairbaseconnect-f034d",
+    "storage_bucket": "fairbaseconnect-f034d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510243259626:android:c7c31e740a0dd481a14393",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510243259626-v232nham847hujehilcg2he53oi8vcj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-0m2M6n9-T2IBmz1ZSS67pGCCEeQ3sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510243259626-v232nham847hujehilcg2he53oi8vcj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
